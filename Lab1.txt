@@ -1,0 +1,4 @@
+Print the pattern using "*"
+take two numbers as their input and print their sum.
+wap to find ASCII code of a character
+Swapping of 2 numbers using bitwise operations.
