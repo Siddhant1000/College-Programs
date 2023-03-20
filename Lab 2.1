@@ -1,0 +1,25 @@
+import java.util.Scanner;
+public class Order 
+{
+    public static void main(String []args)
+    {
+    Scanner sc=new Scanner(System.in);
+    System.out.print("Input first character: ");
+    char C1=sc.next().charAt(0);
+    System.out.print("Input second character: ");
+    char C2= sc.next().charAt(0);
+    
+    
+    if(C1>C2)
+    {
+        System.out.print(C1+" , "+C2);
+        
+        
+    }
+    else
+    {
+        System.out.print(C2+" , "+C1);
+    }
+    
+}
+}
